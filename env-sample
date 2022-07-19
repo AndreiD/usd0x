@@ -1,0 +1,4 @@
+MAINNET_RPC=xxxxxxxxxxxxxxxxxxx
+RINKEBY_RPC=xxxxxxxxxxxxxxxxxxx
+PRIVATE_KEY="xxxxxxxxxxxxxxxxxxx"
+ETHERSCAN_KEY="xxxxxxxxxxxxxxxxxxx"
