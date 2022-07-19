@@ -1,29 +1,6 @@
 # USD0x
 
-## Build
 
-#### Step 1: Configure
+## License: Commercial. You are NOT allowed to use this code in any way unless you have our permission
 
-```
-cp env-sample .env
-nano .env
-```
-
-#### Step 2: Build
-
-```
-yarn
-npm run compile
-```
-
-#### Step 3: Deploy
-
-```
-npm run deploy:rinkeby
-```
-
-#### Step 4: ???
-
-#### Step 5: Profit!
-
-## License: MIT
+Remember: Open Source doesn't mean it's free!
