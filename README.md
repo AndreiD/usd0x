@@ -1,3 +1,5 @@
+usdx
+
 
 We will explore the basics of creating a Hardhat project with a sample contract, tests of that contract, and a script to deploy it.
 
